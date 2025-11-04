@@ -25,7 +25,7 @@ Cloning the repo, first making sure you're in the home directory and then making
 cd ~/
 mkdir git
 cd git
-git clone https://github.com/whitfijs-jw/Volvo240-DigitalDash.git --recurse-submodules
+git clone [https://github.com/nahoj95/Volvo240-DigitalDash.git --recurse-submodules
 ```
 ## Install necessary packages for Buildroot
 After the clone you'll need to install the necessary packages for buildroot (from [here](https://buildroot.org/downloads/manual/manual.html#requirement-mandatory), with the exception of python-is-python3):
